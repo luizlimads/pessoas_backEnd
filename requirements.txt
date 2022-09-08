@@ -1,1 +1,3 @@
 pymongo
+pandas_ods_reader
+pandas
